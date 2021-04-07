@@ -12,7 +12,6 @@
 </head>
 
 <body>
-<h2>nayem uddin</h2>
 	<div class="container">
 		<br>
 		<a href="admin/login.php" class="btn btn-primary" style="float: right;">Admin Login</a><br><br>
